@@ -1,0 +1,17 @@
+.scale {
+  background-color: var(--SCALE);
+}
+
+.light {
+  background-color: var(--LIGHTCYAN);
+}
+
+.strip {
+  margin: 20px auto;
+}
+
+.strip_pad {
+  margin: 20px auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}

@@ -1,0 +1,7 @@
+# Eclipse (2019 Arc vibes)
+.settings/
+bin/
+.classpath
+.project
+
+log.txt

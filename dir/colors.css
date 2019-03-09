@@ -1,0 +1,33 @@
+:root {
+
+  /* BLUES
+     Coolors Exported Palette - coolors.co/13293d-006494-e0fbfc-34f6f2-28b0ff */
+
+  --DEEPBLUE: rgba(19, 41, 61, 1);
+  --SEA: rgba(0, 100, 148, 1);
+  --LIGHTCYAN: rgba(224, 251, 252, 1);
+  --TURQUOISE: rgba(52, 246, 242, 1);
+  --ELECTRIC: rgb(76, 229, 255);
+  --AZURE: rgba(40, 176, 255, 1);
+  --AZUREDARK: rgb(0, 12, 28);
+  --AZURELIGHT: rgb(51, 180, 255);
+  --SCALE: rgba(24, 24, 33, 1);
+
+  /* GREENS
+     Coolors Exported Palette - coolors.co/60695c-abdf75-93eda5-d6f9dd-c5d6d8 */
+
+  --GRANITE: rgba(96, 105, 92, 1);
+  --INCHWORM: rgba(171, 223, 117, 1);
+  --LIGHTGREEN: rgba(147, 237, 165, 1);
+  --NYANZA: rgba(214, 249, 221, 1);
+  --COLUMBIA: rgba(197, 214, 216, 1);
+
+  /* OTHERS */
+
+  --HUNTER: #568E54;
+  --RADICAL: #FF3366;
+  --AQUAMARINE: #7CFFC4;
+  --MACNCHEESE: #F7C58F;
+  --CHAMPANGE: #F7E3CD;
+
+}
